@@ -9,18 +9,18 @@ $(document).ready(function() {
     });
 });
 
-const swiper = new Swiper('.swiper', {
+// const swiper = new Swiper('.swiper', {
     
-    // Optional parameters
-    direction: 'horizontal',
-    autoplay: {
-        delay: 3500,
-    },
+//     // Optional parameters
+//     direction: 'horizontal',
+//     autoplay: {
+//         delay: 3500,
+//     },
 
-    // Navigation arrows
-    navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-    },
+//     // Navigation arrows
+//     navigation: {
+//     nextEl: '.swiper-button-next',
+//     prevEl: '.swiper-button-prev',
+//     },
 
-});
+// });
