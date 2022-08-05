@@ -8,20 +8,3 @@ $(document).ready(function() {
         $('body').removeClass('lock');
     });
 });
-
-// const swiper = new Swiper('.swiper', {
-    
-//     // Optional parameters
-//     direction: 'horizontal',
-//     autoplay: {
-//         delay: 3500,
-//     },
-
-//     // Navigation arrows
-//     navigation: {
-//     nextEl: '.swiper-button-next',
-//     prevEl: '.swiper-button-prev',
-//     },
-
-// });
-
